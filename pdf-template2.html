@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, nofollow">
+    <!-- <style>
+        body {
+            padding: 0;
+            margin: 0;
+        }
+
+        svg:not(:root) {
+            display: block;
+        }
+
+        .playable-code {
+            background-color: #f4f7f8;
+            border: none;
+            border-left: 6px solid #558abb;
+            border-width: medium medium medium 6px;
+            color: #4d4e53;
+            height: 100px;
+            width: 90%;
+            padding: 10px 10px 0;
+        }
+
+        .playable-canvas {
+            border: 1px solid #4d4e53;
+            border-radius: 2px;
+        }
+
+        .playable-buttons {
+            text-align: right;
+            width: 90%;
+            padding: 5px 10px 5px 26px;
+        }
+    </style> -->
+
+
+
+    <title>CIDRA</title>
+</head>
+
+<body style="width: 90%;
+max-width: 900px;
+margin: 2em auto;
+font: .9em/1.2 Arial, Helvetica, sans-serif;">
+
+    <table>
+        <tr>
+            <td style="width: 150px; height: 150px; border: 1px solid black; display: flex; float: left;">
+                <img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f8829123-e4b0-43b3-861a-66a4b8554086/rachel-andrew-tw-profile.jpg"
+                    alt="">
+            </td>
+            <td style="width: 150px; height: 150px; border: 1px solid black; float: right">
+                <p>Name:</p>
+                <p>Surname:</p>
+                <p>Age:</p>
+                <p>location:</p>
+            </td>
+            <td style="display: flex; justify-content: center; align-items:center; object-fit: contain">
+                <div style=" border-radius: 5px;
+                padding: 10px;
+                margin-top: 5%;
+                text-align: center;
+                background-color: rgb(207, 232, 220);
+                border: 2px solid rgb(79, 185, 227);
+                width: 50%">Cidra Medical booklet</div>
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                <article style="grid-area: content;
+                border: 1px solid black;
+                padding: 10px;
+                height: 40em;">
+                    <h1>My article</h1>
+                    <p>Duis felis orci, pulvinar id metus ut, rutrum luctus orci. Cras porttitor imperdiet nunc, at
+                        ultricies
+                        tellus laoreet sit amet. Sed auctor cursus massa at porta. Integer ligula ipsum, tristique sit
+                        amet orci
+                        vel, viverra egestas ligula. Curabitur vehicula tellus neque, ac ornare ex malesuada et. In
+                        vitae
+                        convallis lacus. Aliquam erat volutpat. Suspendisse ac imperdiet turpis. Aenean finibus
+                        sollicitudin
+                        eros pharetra congue. Duis ornare egestas augue ut luctus. Proin blandit quam nec lacus varius
+                        commodo
+                        et a urna. Ut id ornare felis, eget fermentum sapien.</p>
+
+                    <p>Nam vulputate diam nec tempor bibendum. Donec luctus augue eget malesuada ultrices. Phasellus
+                        turpis est,
+                        posuere sit amet dapibus ut, facilisis sed est. Nam id risus quis ante semper consectetur eget
+                        aliquam
+                        lorem. Vivamus tristique elit dolor, sed pretium metus suscipit vel. Mauris ultricies lectus sed
+                        lobortis finibus. Vivamus eu urna eget velit cursus viverra quis vestibulum sem. Aliquam
+                        tincidunt eget
+                        purus in interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
+                        ridiculus mus.
+                    </p>
+                </article>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 120px; height: 120px; border: 1px solid black; float: left">
+
+            </td>
+            <td style="width: 120px; height: 120px; border: 1px solid black; float: right">
+
+            </td>
+        </tr>
+    </table>
+
+
+
+
+
+
+</body>
+
+</html>
